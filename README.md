@@ -94,7 +94,7 @@ This should run on: `http://localhost:8000`
 
 ## 📷 Screenshot
 
-*Add a screenshot of the sidebar inside a YouTube page here*
+![Sidebar on YouTube](screenshots/sidebar-youtube.png)
 
 ---
 
